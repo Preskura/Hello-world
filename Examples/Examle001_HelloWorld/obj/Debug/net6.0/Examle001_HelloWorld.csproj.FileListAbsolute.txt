@@ -1,0 +1,15 @@
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\bin\Debug\net6.0\Examle001_HelloWorld.exe
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\bin\Debug\net6.0\Examle001_HelloWorld.deps.json
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\bin\Debug\net6.0\Examle001_HelloWorld.runtimeconfig.json
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\bin\Debug\net6.0\Examle001_HelloWorld.dll
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\bin\Debug\net6.0\Examle001_HelloWorld.pdb
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\obj\Debug\net6.0\Examle001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\obj\Debug\net6.0\Examle001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\obj\Debug\net6.0\Examle001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\obj\Debug\net6.0\Examle001_HelloWorld.AssemblyInfo.cs
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\obj\Debug\net6.0\Examle001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\obj\Debug\net6.0\Examle001_HelloWorld.dll
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\obj\Debug\net6.0\refint\Examle001_HelloWorld.dll
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\obj\Debug\net6.0\Examle001_HelloWorld.pdb
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\obj\Debug\net6.0\Examle001_HelloWorld.genruntimeconfig.cache
+C:\Users\a.preskura\Desktop\instructions\Hello world\Examples\Examle001_HelloWorld\obj\Debug\net6.0\ref\Examle001_HelloWorld.dll
